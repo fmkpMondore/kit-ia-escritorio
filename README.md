@@ -1,5 +1,7 @@
 # Kit IA para Escritório · beta
 
+![A mesa do Kit IA para Escritório: a equipe de 6 assistentes, as 6 ferramentas, os conectores, o painel e o ciclo de aprendizado](docs/hero.png)
+
 > **EN:** A ready-to-use team of 6 AI assistants for small-office back-office work (inbox triage, meeting briefings, summaries, drafting, daily panel), packaged as a Claude plugin with a continuous-learning loop. Install: `/plugin marketplace add fmkpMondore/kit-ia-escritorio` → `/plugin install kit-ia-para-escritorio@kit-ia`. Portuguese (BR) product · private beta.
 
 Seis assistentes de IA e seis ferramentas prontas pro trabalho repetitivo do seu escritório — e-mail, briefing de reunião, resumo, texto na sua voz, painel do dia e fechamento com aprendizado contínuo. Instala no seu Claude com um comando.
