@@ -1,0 +1,13 @@
+{
+  "name": "kit-ia",
+  "owner": {
+    "name": "Flavio Pies"
+  },
+  "plugins": [
+    {
+      "name": "kit-ia-para-escritorio",
+      "source": "./",
+      "description": "Kit IA para Escritório (beta) — sua equipe de assistentes de IA, pronta pra usar."
+    }
+  ]
+}
